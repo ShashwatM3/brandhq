@@ -1,0 +1,2 @@
+before prod:
+  ☐ Change Authorized JS Origins to deployed URL for Google Auth
