@@ -2,6 +2,6 @@
   animation: 0.7s fadeIn ease-in-out;
 }
 
-#customTheme {
+#customTheme, #enterThemeTitle {
   display: none;
 }
