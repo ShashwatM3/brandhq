@@ -1,7 +1,7 @@
-#brandIdentity {
-  animation: 2s fadeIn ease-in-out;
+#ideation, #brandIdentity1, #brandIdentity2 {
+  animation: 0.7s fadeIn ease-in-out;
 }
 
-#ideation {
-  animation: 1s fadeIn ease-in-out;
+#customTheme {
+  display: none;
 }
